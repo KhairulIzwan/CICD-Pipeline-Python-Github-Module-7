@@ -1,0 +1,19 @@
+Lab Activities for Engineers
+
+Activity-1
+Add CPU trend visualization module.
+
+Activity-2
+Add JSON report export module.
+
+Activity-3
+Move thresholds into environment variables.
+
+Activity-4
+Add exception handling across modules.
+
+Activity-5
+Create reusable utility module.
+
+Activity-6
+Add Git version control for project.

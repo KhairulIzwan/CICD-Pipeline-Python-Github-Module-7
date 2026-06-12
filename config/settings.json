@@ -1,0 +1,13 @@
+{
+    "thresholds": {
+        "temperature": 83,
+        "vibration": 5.0,
+        "cpu_usage": 75
+    },
+    "paths": {
+        "data":    "data/machine_performance.csv",
+        "logs":    "logs/automation.log",
+        "reports": "reports/analytics_summary.txt",
+        "charts":  "charts"
+    }
+}
